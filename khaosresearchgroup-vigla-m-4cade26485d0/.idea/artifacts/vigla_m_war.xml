@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vigla-m:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="melanoma.war">
+      <element id="artifact" artifact-name="vigla-m:war exploded" />
+    </root>
+  </artifact>
+</component>
